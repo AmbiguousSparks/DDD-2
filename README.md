@@ -32,6 +32,9 @@ Nesta aula, vamos:
 
 ### **2️⃣ Atividade Prática: Context Mapping no Projeto**
 
+
+![MappingContext](./DDD2.drawio.png)
+
 📌 **Objetivo:**  
 Identifique os **Bounded Contexts** do projeto e criar um **Context Map**, definindo as relações entre eles.
 
